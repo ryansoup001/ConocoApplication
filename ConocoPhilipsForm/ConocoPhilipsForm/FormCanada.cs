@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ConocoPhilipsForm
 {
-    public partial class Form2 : Form
+    public partial class FormCanada : Form
     {
-        public Form2()
+        public FormCanada()
         {
             InitializeComponent();
-        }
-
-        private void pix1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
