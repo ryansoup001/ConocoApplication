@@ -1,0 +1,16 @@
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\bin\Debug\net8.0-windows\ConocoPhilipsForm.exe
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\bin\Debug\net8.0-windows\ConocoPhilipsForm.deps.json
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\bin\Debug\net8.0-windows\ConocoPhilipsForm.runtimeconfig.json
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\bin\Debug\net8.0-windows\ConocoPhilipsForm.dll
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\bin\Debug\net8.0-windows\ConocoPhilipsForm.pdb
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.Form1.resources
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.csproj.GenerateResource.cache
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.AssemblyInfoInputs.cache
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.AssemblyInfo.cs
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.csproj.CoreCompileInputs.cache
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.dll
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\refint\ConocoPhilipsForm.dll
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.pdb
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.genruntimeconfig.cache
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ref\ConocoPhilipsForm.dll

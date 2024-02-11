@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConocoPhilipsForm/1.0.0": {
+        "runtime": {
+          "ConocoPhilipsForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConocoPhilipsForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
