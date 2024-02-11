@@ -14,3 +14,5 @@ C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsFor
 C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.pdb
 C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.genruntimeconfig.cache
 C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ref\ConocoPhilipsForm.dll
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.sourcelink.json
+C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\obj\Debug\net8.0-windows\ConocoPhilipsForm.ResultsForm.resources

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConocoPhilipsForm",
+    "\\ConocoPhilipsForm\\ConocoPhilipsForm",
+    "\\ConocoPhilipsForm\\ConocoPhilipsForm\\obj"
   ],
+  "SelectedNode": "\\ConocoPhilipsForm\\ConocoPhilipsForm\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
