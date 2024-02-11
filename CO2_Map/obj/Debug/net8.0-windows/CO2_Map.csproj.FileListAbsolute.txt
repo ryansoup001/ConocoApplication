@@ -1,0 +1,17 @@
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\bin\Debug\net8.0-windows\CO2_Map.exe
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\bin\Debug\net8.0-windows\CO2_Map.deps.json
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\bin\Debug\net8.0-windows\CO2_Map.runtimeconfig.json
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\bin\Debug\net8.0-windows\CO2_Map.dll
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\bin\Debug\net8.0-windows\CO2_Map.pdb
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.Form1.resources
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.Properties.Resources.resources
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.AssemblyInfo.cs
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.dll
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\refint\CO2_Map.dll
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.pdb
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\CO2_Map.genruntimeconfig.cache
+C:\Users\ruben\source\repos\ConocoApplication\CO2_Map\obj\Debug\net8.0-windows\ref\CO2_Map.dll
