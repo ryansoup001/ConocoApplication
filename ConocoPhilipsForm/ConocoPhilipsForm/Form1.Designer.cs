@@ -100,13 +100,14 @@
             // comboBox2
             // 
             comboBox2.AllowDrop = true;
-            comboBox2.ForeColor = SystemColors.WindowFrame;
+            comboBox2.ForeColor = SystemColors.WindowText;
             comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "Total Greenhouse Gasses", "CO2 from Operations", "CO2 from Imported Electricity", "Methane (CO2e)", "Nitrous Oxide (CO2e)" });
+            comboBox2.Items.AddRange(new object[] { "[none]", "Total Greenhouse Gasses", "CO2 from Operations", "CO2 from Imported Electricity", "Methane (CO2e)", "Nitrous Oxide (CO2e)" });
             comboBox2.Location = new Point(426, 70);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(165, 23);
             comboBox2.TabIndex = 11;
+            comboBox2.Tag = "";
             comboBox2.SelectedIndexChanged += comboBox2_SelectedIndexChanged;
             // 
             // label3
