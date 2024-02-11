@@ -1,6 +1,6 @@
 ﻿namespace ConocoPhilipsForm
 {
-    partial class Form2
+    partial class FormAlaska
     {
         /// <summary>
         /// Required designer variable.
@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             pix1 = new PictureBox();
+            alaskaTxt = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pix1).BeginInit();
             SuspendLayout();
             // 
@@ -43,20 +44,34 @@
             pix1.TabStop = false;
             pix1.Click += pix1_Click;
             // 
-            // Form2
+            // alaskaTxt
+            // 
+            alaskaTxt.BackColor = SystemColors.ActiveCaption;
+            alaskaTxt.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            alaskaTxt.Location = new Point(199, 138);
+            alaskaTxt.Multiline = true;
+            alaskaTxt.Name = "alaskaTxt";
+            alaskaTxt.Size = new Size(395, 213);
+            alaskaTxt.TabIndex = 1;
+            alaskaTxt.Text = "1 million ppm";
+            // 
+            // FormAlaska
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1747, 823);
+            Controls.Add(alaskaTxt);
             Controls.Add(pix1);
-            Name = "Form2";
+            Name = "FormAlaska";
             Text = "ConocoPhillips Global Map";
             ((System.ComponentModel.ISupportInitialize)pix1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private PictureBox pix1;
+        private TextBox alaskaTxt;
     }
 }
