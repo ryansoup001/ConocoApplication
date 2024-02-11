@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79135089b16c46ca4a5655994add849b20f44acf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ba5a77e48e3057cc11bf020468503b8a817060")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
