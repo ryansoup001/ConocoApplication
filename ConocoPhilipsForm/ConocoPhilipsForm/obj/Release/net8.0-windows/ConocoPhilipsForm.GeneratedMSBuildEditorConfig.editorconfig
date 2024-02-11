@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConocoPhilipsForm
-build_property.ProjectDir = C:\Users\rrrst\Repositories\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\
+build_property.ProjectDir = C:\Users\ruben\source\repos\ConocoApplication\ConocoPhilipsForm\ConocoPhilipsForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
