@@ -14,11 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79135089b16c46ca4a5655994add849b20f44acf")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f12817b7f618e6a9c44153474ee4390ae7b705ad")]
 >>>>>>> Stashed changes
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ba5a77e48e3057cc11bf020468503b8a817060")]
+>>>>>>> 5f381c5dbb8c01f084f0b4f003299b3c0c15d522
 [assembly: System.Reflection.AssemblyProductAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConocoPhilipsForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
